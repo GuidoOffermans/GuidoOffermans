@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @GuidoOffermans
+- 👋 Hello there, I’m @GuidoOffermans
 - 👀 I’m interested in Code, Music and animation.
-- 🌱 I’m currently learning front-end animations.
+- 🌱 I’m currently a full-stack developer.
 - 💞️ I’m looking to collaborate on cool projects.
 - 📫 Reach out to me on guidooffermans@hotmail.com.
 
