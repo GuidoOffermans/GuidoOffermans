@@ -2,7 +2,7 @@
 - 👀 I’m interested in Code, Music and animation.
 - 🌱 I’m currently a full-stack developer.
 - 💞️ I’m looking to collaborate on cool projects.
-- 📫 Reach out to me on hello@guidooffermans.com.
+- 📫 Reach out to me on dev@guidooffermans.com.
 
 <!---
 GuidoOffermans/GuidoOffermans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
